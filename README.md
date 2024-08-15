@@ -9,4 +9,4 @@
 ## Languege/Framework
 <img src="https://skillicons.dev/icons?i=python,typescript,react" /> <br /><br />
 ## Other
-<img src="https://skillicons.dev/icons?i=git,firebase,docker" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,firebase" /> <br /><br />
